@@ -14,7 +14,7 @@ var gaussian = (function($, gaussian){
         }
         return gaussian;
     };
-    
+     
     gaussian.distribution = function(){
         var sampleNo = 3000,
             i = 0, j = 0, val , h, x;
